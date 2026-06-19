@@ -1,0 +1,9 @@
+.app {
+  min-height: 100vh;
+  background-color: #ecf0f1;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.main-content {
+  padding-top: 0;
+}
